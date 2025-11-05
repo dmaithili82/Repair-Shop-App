@@ -89,6 +89,28 @@ IAM Roles + Policies (Secure access control)
 | ![CloudFront Console](screenshots/cloudfront_list.png) | AWS CloudFront distribution setup |
 | ![Elastic Beanstalk Dashboard](screenshots/beanstalk_dashboard.png) | Running Node.js app on EB |
 
+## 🧱 Folder Structure
+
+Repair-Shop-App/
+├── backend/
+│ ├── server.js
+│ ├── package.json
+│ ├── Procfile
+│ └── .gitignore
+│
+├── frontend/
+│ ├── src/
+│ ├── public/
+│ ├── App.js
+│ ├── package.json
+│ └── .gitignore
+│
+└── screenshots/
+├── frontend_app.png
+├── api_json_output.png
+├── cloudfront_list.png
+└── beanstalk_dashboard.png
+
 ## 🧹 Cleanup Commands (To Avoid Costs)
 
 ```bash
