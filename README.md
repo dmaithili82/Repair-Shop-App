@@ -84,10 +84,10 @@ IAM Roles + Policies (Secure access control)
 
 | Preview | Description |
 |----------|--------------|
-| ![Frontend UI](screenshots/frontend_app.png) | Deployed frontend (React + S3 + CloudFront) |
-| ![API JSON](screenshots/api_json_output.png) | Backend API response (Elastic Beanstalk) |
-| ![CloudFront Console](screenshots/cloudfront_list.png) | AWS CloudFront distribution setup |
-| ![Elastic Beanstalk Dashboard](screenshots/beanstalk_dashboard.png) | Running Node.js app on EB |
+| ![Frontend UI](screenshots/frontend_app.jpg) | Deployed frontend (React + S3 + CloudFront) |
+| ![API JSON](screenshots/api_json_output.jpg) | Backend API response (Elastic Beanstalk) |
+| ![CloudFront Console](screenshots/cloudfront_list.jpg) | AWS CloudFront distribution setup |
+| ![Elastic Beanstalk Dashboard](screenshots/beanstalk_dashboard.jpg) | Running Node.js app on EB |
 
 ## 🧱 Folder Structure
 
